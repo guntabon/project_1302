@@ -1,0 +1,20 @@
+12/1/2025
+Objective: Introduction to final project and brainstorming
+Team: Jorge, Gunner, and Brittney
+
+Work: we were introduced to the project and its milestones. The team gathered and made a plan and outline on how the project is going to be produced.
+
+12/3/2025
+Objective: Make a spec sheet to translate concept and goals to user and developer.
+Team: Jorge, Gunner, and Brittney
+
+Work: I(Jorge) assisted Gunner in developing a spec sheet for the project. Later Brittany arrived and provided input. We also started on developing the classes for the project
+and divided the work evenly amongst us three. This weekend I am working on the classes in room.py. Gunner is working on either the event manager or the file manager.
+
+12/8/2025
+We are discussing and planning the material for the event.py file. We discussed the validator file and different approaches to modularizing the functions into the code for cohesion with other files. I was assigned the validator.py file. I am thinking about using try catch methods on the input that the user inputs into the program.
+I was assigned to work on all events by room sorted by date. 
+
+12/10/2025
+Wrapping up
+We checked syntax and logic errors. Made sure that the validators worked and put everything into order.
