@@ -5,3 +5,11 @@ def CheckInt(myVal):
         return True
     except ValueError:
         return False
+    
+    # validate user input data as string data type
+def CheckStr(myVal):
+    try:
+        val = str(myVal)
+        return True
+    except ValueError:
+        return False
