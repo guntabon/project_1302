@@ -1,0 +1,10 @@
+205,2025-12-15,12:30-16:30,20,Parade,Sewing,12345
+206,2025-12-18,08:00-12:30,32,Movie,Film Club,341-1111
+204,2025-12-20,09:00-11:00,10,Workshop,Chess Club,chess@school.edu
+204,2025-12-27,13:00-15:00,12,Seminar,Mathletes,math@school.edu
+207,2025-12-22,10:00-12:00,8,Lab Session,Science Club,science@school.edu
+207,2025-12-29,14:00-16:00,10,Robotics,Robotics Club,robotics@school.edu
+208,2025-12-24,11:00-13:00,25,Guest Lecture,History Club,history@school.edu
+208,2025-12-31,15:00-17:00,20,Debate,Debate Team,debate@school.edu
+205,2025-12-18,12:30-14:30,21,Parade,chess,1234
+205,2025-12-10,12:30-19:40,999,chess tournament,chess,906-341-6133

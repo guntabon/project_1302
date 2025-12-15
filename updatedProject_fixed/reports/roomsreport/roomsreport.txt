@@ -1,0 +1,18 @@
+Room: 204 || Capacity: 19
+  Date: 2025-12-20 || Time: 09:00-11:00 || Attendance: 10 || Type: Workshop || Club: Chess Club || Contact: chess@school.edu
+  Date: 2025-12-27 || Time: 13:00-15:00 || Attendance: 12 || Type: Seminar || Club: Mathletes || Contact: math@school.edu
+
+Room: 205 || Capacity: 32
+  Date: 2025-12-15 || Time: 12:30-16:30 || Attendance: 20 || Type: Parade || Club: Sewing || Contact: 12345
+
+Room: 206 || Capacity: 32
+  Date: 2025-12-18 || Time: 08:00-12:30 || Attendance: 32 || Type: Movie || Club: Film Club || Contact: 341-1111
+
+Room: 207 || Capacity: 12
+  Date: 2025-12-22 || Time: 10:00-12:00 || Attendance: 8 || Type: Lab Session || Club: Science Club || Contact: science@school.edu
+  Date: 2025-12-29 || Time: 14:00-16:00 || Attendance: 10 || Type: Robotics || Club: Robotics Club || Contact: robotics@school.edu
+
+Room: 208 || Capacity: 28
+  Date: 2025-12-24 || Time: 11:00-13:00 || Attendance: 25 || Type: Guest Lecture || Club: History Club || Contact: history@school.edu
+  Date: 2025-12-31 || Time: 15:00-17:00 || Attendance: 20 || Type: Debate || Club: Debate Team || Contact: debate@school.edu
+

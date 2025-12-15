@@ -1,0 +1,3 @@
+Events for Room: 207
+  Date: 2025-12-22 || Time: 10:00-12:00 || Attendance: 8 || Type: Lab Session || Club: Science Club || Contact: science@school.edu
+  Date: 2025-12-29 || Time: 14:00-16:00 || Attendance: 10 || Type: Robotics || Club: Robotics Club || Contact: robotics@school.edu

@@ -1,0 +1,6 @@
+206, 32, Lecture Hall
+205, 32, Lab
+204, 19, Meeting Room
+207, 12, Lab
+208, 28, Lecture Hall
+209, 43, Meeting Room
